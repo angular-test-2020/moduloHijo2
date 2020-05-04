@@ -1,6 +1,6 @@
 {
   "name": "modulo-hijo2",
-  "version": "0.0.3",
+  "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -22,6 +22,10 @@
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular-test-2020/moduloHijo2.git"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.4",
